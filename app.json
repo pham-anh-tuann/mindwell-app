@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "MindWell",
+    "slug": "mindwell_app",
+    "version": "1.0.1",
+    "scheme": "mindwell",
+    "icon": "./assets/images/icon.png",
+    "splash": {
+      "image": "./assets/images/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "android": {
+      "package": "com.ngoc_1234.mindwell_app"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "913bf5d6-d83f-4579-aa58-55195f79f745"
+      }
+    },
+    "owner": "ngoc_1234",
+    "plugins": [
+      "expo-font",
+      "@react-native-community/datetimepicker"
+    ]
+  }
+}
