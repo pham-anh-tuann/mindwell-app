@@ -10,6 +10,8 @@
 
 > ⚙️ *Xem mã nguồn phân hệ Backend xử lý logic & AI [tại đây](https://github.com/pham-anh-tuann/mindwell-server).*
 
+> * link trải nghiệm app qua expo go : https://appetize.io/embed/b_gz2l6hl4wqmptlh7veup3db2a4?centered=true
+
 ## 🛠️ Công nghệ & Ngăn xếp (Tech Stack)
 *   **Framework**: React Native / Expo.
 *   **State Management**: Zustand.
