@@ -4,13 +4,12 @@
   <img src="./assets/images/icon.png" alt="MindWell Banner" width="20%" />
 </div>
 
-> **Đề tài Nghiên cứu Khoa học - Viện Công nghệ thông tin** | Phân hệ giao diện di động (Mobile Client) thuộc hệ sinh thái MindWell, tập trung vào Trải nghiệm Người dùng (UX) và tối ưu hóa hiệu năng thiết bị khách.
+> Phân hệ giao diện di động (Mobile Client) thuộc hệ sinh thái MindWell, tập trung vào Trải nghiệm Người dùng (UX) và tối ưu hóa hiệu năng thiết bị khách.
 
 > 🔗 **[Mã nguồn Frontend (Mobile App)](https://github.com/pham-anh-tuann/mindwell-app)**
 
 > ⚙️ *Xem mã nguồn phân hệ Backend xử lý logic & AI [tại đây](https://github.com/pham-anh-tuann/mindwell-server).*
 
-> 🌐 *Xem phân hệ Quản trị viên (Admin Dashboard) [tại đây](https://mindwell-admin.vercel.app).*
 
 ## 🛠️ Công nghệ & Ngăn xếp (Tech Stack)
 *   **Framework**: React Native / Expo.
